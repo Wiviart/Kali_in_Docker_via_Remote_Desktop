@@ -1,5 +1,5 @@
 # Kali_in_Docker_via_Remote_Desktop
-Create and run Kali Linux in Docker via Remote Desktop
+This is the manual method to create and run Kali Linux in Docker via Remote Desktop
 
 1. Pull Kali Linux image.
 ```
