@@ -1,3 +1,5 @@
-FROM kali
+FROM kalilinux/kali-rolling
 
-RUN
+RUN apt update && apt install xrdp kali-desktop-xfce -y
+
+CMD ["bin/bash"]
